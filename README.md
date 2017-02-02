@@ -2,6 +2,13 @@
 
 You can use the [editor on GitHub](https://github.com/IoT-Study/Infomation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+<dl>
+  <dt>リンゴ</dt>
+  <dd>赤いフルーツ</dd>
+  <dt>オレンジ</dt>
+  <dd>橙色のフルーツ</dd>
+</dl>
+
 ```ruby:qiita.rb
 puts 'The best way to log and share programmers knowledge.'
 ```
