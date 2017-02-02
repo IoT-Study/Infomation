@@ -6,6 +6,9 @@ You can use the [editor on GitHub](https://github.com/IoT-Study/Infomation/edit/
 puts 'The best way to log and share programmers knowledge.'
 ```
 
+# これはH1タグです
+## これはH2タグです
+###### これはH6タグです
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
