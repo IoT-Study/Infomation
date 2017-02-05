@@ -3,7 +3,7 @@
 [GitHub](https://github.com/IoT-Study/Infomation/edit/master/README.md) 
 
 ## Slackに参加
-[GitHub](https://app-iot-study.herokuapp.com/)
+[https://app-iot-study.herokuapp.com/](https://app-iot-study.herokuapp.com/)
 <dl>
   <dt>リンゴ</dt>
   <dd>赤いフルーツ</dd>
