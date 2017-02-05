@@ -4,7 +4,10 @@
 ## GitHub
 [https://github.com/IoT-Study/Infomation/blob/master/README.md](https://github.com/IoT-Study/Infomation/blob/master/README.md) 
 
-## Slackに参加
+## Slack
+### Slackとは
+プロジェクトにおいて、コミュニケーションや情報共有をするためのツールです。
+### Slackに参加するには下記URLをクリック下さい。
 [https://app-iot-study.herokuapp.com/](https://app-iot-study.herokuapp.com/)
 
 
