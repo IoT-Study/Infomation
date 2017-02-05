@@ -2,7 +2,7 @@
 
 #IoT研究会
 ## GitHub
-[GitHub](https://github.com/IoT-Study/Infomation/edit/master/README.md) 
+[https://github.com/IoT-Study/Infomation/edit/master/README.md](https://github.com/IoT-Study/Infomation/edit/master/README.md) 
 
 ## Slackに参加
 [https://app-iot-study.herokuapp.com/](https://app-iot-study.herokuapp.com/)
