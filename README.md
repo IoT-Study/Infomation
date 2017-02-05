@@ -3,6 +3,9 @@
 #IoT研究会
 ## GitHub
 [https://github.com/IoT-Study/Infomation/blob/master/README.md](https://github.com/IoT-Study/Infomation/blob/master/README.md) 
+## 資料
+有益な資料は下記に格納して下さい。pushして、マージリクエストを頂ければマージします。
+[documentation](https://help.github.com/categories/github-pages-basics/)
 
 ## Slack
 ### Slackとは
@@ -10,19 +13,12 @@
 ### Slackに参加するには下記URLをクリック下さい。
 [https://app-iot-study.herokuapp.com/](https://app-iot-study.herokuapp.com/)
 
-## 資料
-有益な資料は下記に格納して下さい。pushして、マージリクエストを頂ければマージします。
-[documentation](https://help.github.com/categories/github-pages-basics/)
-
 ## お問いあわせ
 iotken@googlegroups.com
 
 
-| Left align | Right align | Center align |
+| Left align | 日時 | 内容 |
 |:-----------|------------:|:------------:|
-| This       |        This |     This     |
-| column     |      column |    column    |
-| will       |        will |     will     |
-| be         |          be |      be      |
-| left       |       right |    center    |
-| aligned    |     aligned |   aligned    |
+| First      | 2017.1.14 10:00〜 | PSoC開発環境 PSoC Creator 使い方,Lチカ    |
+| Second     | 2017.2.11 10:00〜 |I2C/SPI通信のWorkshop    |
+| Thrid      |             |          |
