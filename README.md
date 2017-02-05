@@ -1,4 +1,5 @@
-![IoT](http://www.businesscloudnews.com/files/2016/01/IoT-cloud.jpg "サンプル")
+<img src="http://www.businesscloudnews.com/files/2016/01/IoT-cloud.jpg" width="120px">
+
 #IoT研究会
 ## GitHub
 [GitHub](https://github.com/IoT-Study/Infomation/edit/master/README.md) 
