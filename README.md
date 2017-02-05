@@ -11,6 +11,7 @@
 ### Slackとは
 - プロジェクトにおいて、コミュニケーションや情報共有をするためのツールです。
 - フリープランでも十分に使用出来ます。
+
 ### Slackに参加するには下記URLをクリック下さい。
 [https://app-iot-study.herokuapp.com/](https://app-iot-study.herokuapp.com/)
 
