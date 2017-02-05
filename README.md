@@ -6,20 +6,17 @@
 
 ## Slack
 ### Slackとは
-プロジェクトにおいて、コミュニケーションや情報共有をするためのツールです。
+プロジェクトにおいて、コミュニケーションや情報共有をするためのツールです。フリープランでも十分に使用出来ます。
 ### Slackに参加するには下記URLをクリック下さい。
 [https://app-iot-study.herokuapp.com/](https://app-iot-study.herokuapp.com/)
 
+## 資料
+有益な資料は下記に格納して下さい。pushして、マージリクエストを頂ければマージします。
+[documentation](https://help.github.com/categories/github-pages-basics/)
 
-### Jekyll Themes
+## お問いあわせ
+iotken@googlegroups.com
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IoT-Study/Infomation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-Markdown: ![Qiita](https://qiita-image-store.s3.amazonaws.com/0/88/profile-images/1473684075 "Qiita")
 
 | Left align | Right align | Center align |
 |:-----------|------------:|:------------:|
