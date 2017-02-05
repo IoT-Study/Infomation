@@ -9,12 +9,23 @@
 [https://github.com/IoT-Study/Infomation/tree/master/documents](https://github.com/IoT-Study/Infomation/tree/master/documents)
 
 ## Slack
-### Slackとは
+### 1.Slackとは
 - プロジェクトにおいて、コミュニケーションや情報共有をするためのツールです。
 - フリープランでも十分に使用出来ます。
 
-### Slackに参加するには下記URLをクリック下さい。
+### 2.Slackへの参加方法
+- 下記URLをクリック下さい。
 [https://app-iot-study.herokuapp.com/](https://app-iot-study.herokuapp.com/)
+
+### 3.次回以降のURL
+- https://iot-study.slack.com
+
+### 4.Channel
+| チャネル名 | 目的 |
+|:-----------|:------------|
+| #general      |チーム全員が参加するチャネル   |
+| #announce     | 周知専用のチャネル    |
+| #technical  |技術情報などの共有チャネル       |  
 
 ## 勉強会スケジュール
 | 何回目 | 日時 | 内容 |
