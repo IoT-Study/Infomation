@@ -1,4 +1,4 @@
-![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
+![IoT](http://www.businesscloudnews.com/files/2016/01/IoT-cloud.jpg "サンプル")
 #IoT研究会
 ## GitHub
 [GitHub](https://github.com/IoT-Study/Infomation/edit/master/README.md) 
