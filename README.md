@@ -3,8 +3,9 @@
 ## GitHub
 [https://github.com/IoT-Study/Infomation/blob/master/README.md](https://github.com/IoT-Study/Infomation/blob/master/README.md) 
 ### 資料
-- 有益な資料は下記に格納して下さい。
+- 有益な資料は下記URLに格納して下さい。
 - pushして、マージリクエストを頂ければマージします。
+
 [https://github.com/IoT-Study/Infomation/tree/master/documents](https://github.com/IoT-Study/Infomation/tree/master/documents)
 
 ## Slack
