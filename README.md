@@ -1,7 +1,9 @@
-## Welcome to GitHub Pages
+# IoT研究会
+## GitHub
+[GitHub](https://github.com/IoT-Study/Infomation/edit/master/README.md) 
 
-You can use the [editor on GitHub](https://github.com/IoT-Study/Infomation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+## Slackに参加
+[GitHub](https://app-iot-study.herokuapp.com/)
 <dl>
   <dt>リンゴ</dt>
   <dd>赤いフルーツ</dd>
