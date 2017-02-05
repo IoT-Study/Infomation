@@ -3,16 +3,18 @@
 ## GitHub
 [https://github.com/IoT-Study/Infomation/blob/master/README.md](https://github.com/IoT-Study/Infomation/blob/master/README.md) 
 ### 資料
-有益な資料は下記に格納して下さい。pushして、マージリクエストを頂ければマージします。
+有益な資料は下記に格納して下さい。
+pushして、マージリクエストを頂ければマージします。
 [documentation](https://help.github.com/categories/github-pages-basics/)
 
 ## Slack
 ### Slackとは
-プロジェクトにおいて、コミュニケーションや情報共有をするためのツールです。フリープランでも十分に使用出来ます。
+プロジェクトにおいて、コミュニケーションや情報共有をするためのツールです。
+フリープランでも十分に使用出来ます。
 ### Slackに参加するには下記URLをクリック下さい。
 [https://app-iot-study.herokuapp.com/](https://app-iot-study.herokuapp.com/)
 
-## スケジュール
+## 勉強会スケジュール
 | 何回目 | 日時 | 内容 |
 |:-----------|------------:|:------------:|
 | First      | 2017.1.14 10:00〜 | PSoC開発環境 PSoC Creator 使い方,Lチカ    |
